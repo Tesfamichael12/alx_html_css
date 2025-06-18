@@ -2,7 +2,7 @@
 
 This is a modern and fully responsive landing page for SmileSchool, created with pure HTML and CSS. The project was built based on a detailed Figma design to create a pixel-perfect, user-friendly interface.
 
-**🎨 Figma Design:** [View the design file](https://www.figma.com/design/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?node-id=0-1&p=f&t=xbddRXMhkdUb5r8m-0)
+**🎨 Figma Design:** [View the design file](https://www.figma.com/design/kZ3YMpuvANCr8uQcpaAnxe/Homepage--Copy-?m=auto&fuid=1426813288827535131)
 
 ![alt text](image/image.png)
 ![alt text](image/image-1.png)
