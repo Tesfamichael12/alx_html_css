@@ -4,6 +4,7 @@ This is a modern and fully responsive landing page for SmileSchool, created with
 
 **🎨 Figma Design:** [View the design file](https://www.figma.com/design/kZ3YMpuvANCr8uQcpaAnxe/Homepage--Copy-?m=auto&fuid=1426813288827535131)
 
+![alt text](image/image3.png)
 ![alt text](image/image.png)
 ![alt text](image/image-1.png)
 
